@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muzahid Nadaf
 - 👀 I’m interested in computer science...
-- 🌱 I’m currently learning
 - 💞️ right now i am learning c/c++ , java, python and web development...
 - 📫i am a student of B.Tech in Engineering physics at DTU.
 - 😄will be completed in 2024-28
